@@ -11,6 +11,7 @@ Outside of coding, I spend my time on hobbies like drawing, digital painting, an
 **PR:** [Hide the plus button if no attachment actions are registered (#11)](https://github.com/peterfriese/ConversationKit/pull/19)
 
 ### 🌐 Socials:
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/us/developer/ali-cihan-sarac/id1800877163)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alicihansarac) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alicihansarac) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alicihansarac@gmail.com) 
