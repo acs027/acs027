@@ -4,15 +4,21 @@ I'm Ali Cihan, an iOS developer based in Türkiye.<br><br>I enjoy building pract
 
 Outside of coding, I spend my time on hobbies like drawing, digital painting, and playing guitar.
 
+---
+
 ### 📱 Apps
 - [E6B Flight Pro](https://www.alicihansarac.com/E6BFlightPro/) – An interactive E6B flight computer simulator for pilots and aviation students.
 - [DiceLab](https://www.alicihansarac.com/DiceLab/) – A dice rolling app/utility.
+
+---
 
 ### 🛠️ Open Source Contributions
 
 #### **ConversationKit – Enhancement**
 **Repository:** [peterfriese/ConversationKit](https://github.com/peterfriese/ConversationKit)  
 **PR:** [Hide the plus button if no attachment actions are registered (#11)](https://github.com/peterfriese/ConversationKit/pull/19)
+
+---
 
 ### 🌐 Socials:
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/us/developer/ali-cihan-sarac/id1800877163)
