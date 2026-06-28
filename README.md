@@ -1,8 +1,20 @@
-### 🖐️ Hi there!
+### 🧠 Hi there!
 
-I'm Ali Cihan, an iOS developer based in Türkiye.<br><br>I enjoy building practical and user-friendly apps that make everyday life easier.
+I'm Ali Cihan, a Software Engineer with a Mechanical Engineering background based in Türkiye.
 
-Outside of coding, I spend my time on hobbies like drawing, digital painting, and playing guitar.
+I build engineering-focused software tools, simulation apps, and user-friendly mobile applications — especially in aviation and technical domains.
+
+I enjoy turning real-world engineering problems into practical digital tools.
+
+Outside of software, I have a strong interest in mechanical systems, aviation, drawing, and music.
+
+---
+
+### ⚙️ Focus Areas
+- Engineering calculation tools (aviation, physics, mechanics)
+- iOS / Mobile app development (Swift, SwiftUI, UIKit)
+- Simulation & interactive systems
+- Clean architecture & scalable design
 
 ---
 
