@@ -16,7 +16,7 @@ Outside of software, I have a strong interest in mechanical systems, aviation, d
 
 **An interactive E6B flight computer simulator for pilots and aviation students.**
 
-[![View in App Store](https://img.shields.io/badge/View%20on%20App%20Store-0D96F6?logo=app-store&logoColor=white)]([https://apps.apple.com/us/developer/ali-cihan-sarac/id1800877163](https://apps.apple.com/us/app/e6b-flight-pro/id6743019639))
+[![View in App Store](https://img.shields.io/badge/View%20on%20App%20Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/ali-cihan-sarac/id1800877163](https://apps.apple.com/us/app/e6b-flight-pro/id6743019639)
 [![Project Website](https://img.shields.io/badge/Project%20Website-Visit%20Website-blue?logo=googlechrome&logoColor=white)](https://www.alicihansarac.com/E6BFlightPro/)
 
 
